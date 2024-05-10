@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5342805023671884513
+  m_GuidHigh: 4120958231823445412
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5466175317448478156
+      m_GuidHigh: 8180907472388859041
+    m_SerializedTextureGuid:
+      m_GuidLow: 1343199567499663552
+      m_GuidHigh: 4613389302492930443
+    m_Size: {x: 1, y: 0.8642578}
+    m_SpecifySize: 1
+    m_Name: S01
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5192329954219774615
+      m_GuidHigh: 1547804192481102255
+    m_SerializedTextureGuid:
+      m_GuidLow: 10476581521165120213
+      m_GuidHigh: 18328854756229464633
+    m_Size: {x: 1, y: 0.90207255}
+    m_SpecifySize: 1
+    m_Name: S03
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5577087615207063675
+      m_GuidHigh: 2306475875740140702
+    m_SerializedTextureGuid:
+      m_GuidLow: 6986254107154637027
+      m_GuidHigh: 1808714041939323976
+    m_Size: {x: 1, y: 0.71875}
+    m_SpecifySize: 1
+    m_Name: S04
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5519537915524626587
+      m_GuidHigh: 14349553986374536383
+    m_SerializedTextureGuid:
+      m_GuidLow: 16831208542580225126
+      m_GuidHigh: 16377928597617453001
+    m_Size: {x: 1, y: 0.9222798}
+    m_SpecifySize: 1
+    m_Name: S06
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5253905914340695670
+      m_GuidHigh: 5538469692377678733
+    m_SerializedTextureGuid:
+      m_GuidLow: 17637305932547220128
+      m_GuidHigh: 18379194852238358986
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: S02
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5365101991215455936
+      m_GuidHigh: 17961562657851776943
+    m_SerializedTextureGuid:
+      m_GuidLow: 2834104807656451677
+      m_GuidHigh: 13345843570421225048
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: S05
+    m_Texture: {fileID: 0}
